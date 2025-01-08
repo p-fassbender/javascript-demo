@@ -1,5 +1,5 @@
-# Javascript Demo
-An exploration of the basics of javascript from beginner to intermediate level concepts.
+# JavaScript Demo
+An exploration of the basics of JavaScript from beginner to intermediate level concepts.
 
 ## Table of Contents
 - [Introduction](#introduction)
