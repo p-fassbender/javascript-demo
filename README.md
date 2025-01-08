@@ -32,7 +32,7 @@ This project is focused on learning and understanding many different javascript 
       - Extract the ZIP file to your local machine.
     - **Option 2:** Clone the repository using Git:
       ```bash
-      git clone https://github.com/p-fassbender/css-properties-demo.git
+      git clone https://github.com/p-fassbender/javascript-demo.git
 
 2. Open the Files in Your Browser:
     - Once the files are downloaded or cloned, open the folder containing the project files.
