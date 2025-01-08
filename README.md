@@ -9,7 +9,7 @@ An exploration of the basics of JavaScript from beginner to intermediate level c
 - [License](#license)
 
 ## Introduction
-This project is focused on learning and understanding many different javascript properties and concepts. Topics covered include:
+This project is focused on learning and understanding many different JavaScript properties and concepts. Topics covered include:
 - script tag
 - Variables
 - Data Types (string, number, boolean, undefined, null, object, array)
