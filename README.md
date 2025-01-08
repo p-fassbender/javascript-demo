@@ -4,6 +4,7 @@ An exploration of the basics of javascript from beginner to intermediate level c
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
+- [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
@@ -33,11 +34,29 @@ This project is focused on learning and understanding many different javascript 
     - **Option 2:** Clone the repository using Git:
       ```bash
       git clone https://github.com/p-fassbender/javascript-demo.git
-
+      ```
 2. Open the Files in Your Browser:
     - Once the files are downloaded or cloned, open the folder containing the project files.
     - Double-click the index.html file.
     - The page will open in your default web browser, and you can start using it immediately.
+
+## Usage
+1. **Install the project** by following the installation instructions.
+2. **Open the project in your code editor**:
+    - Launch your preferred code editor (e.g., Visual Studio Code, Sublime Text, Atom).
+    - Navigate to the project folder and open it.
+3. **Explore or modify the project** by editing the `main.js` file. You can experiment with different aspects of the project by making changes here.
+4. **Preview your changes**:
+    - **Option 1: Browser Refresh**
+        - After editing `main.js`, simply refresh the browser to see the changes reflected.
+    - **Option 2: Run via Node.js**
+        - Open a terminal window.
+        - Navigate to your project directory.
+        - Run the script by executing the following command:
+          ```bash
+          node main.js
+          ```
+This way, you'll be able to see your changes either in the browser or directly in the terminal.
 
 ## Acknowledgments
 This project was built following a YouTube tutorial by [Codevolution](https://www.youtube.com/watch?v=XIOLqoPHCJ4). 
